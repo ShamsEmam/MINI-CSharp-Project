@@ -1,0 +1,15 @@
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\Trun BasedCombat Game\bin\Debug\net8.0\Trun BasedCombat Game.exe
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\Trun BasedCombat Game\bin\Debug\net8.0\Trun BasedCombat Game.deps.json
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\Trun BasedCombat Game\bin\Debug\net8.0\Trun BasedCombat Game.runtimeconfig.json
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\Trun BasedCombat Game\bin\Debug\net8.0\Trun BasedCombat Game.dll
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\Trun BasedCombat Game\bin\Debug\net8.0\Trun BasedCombat Game.pdb
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\Trun BasedCombat Game\obj\Debug\net8.0\Trun BasedCombat Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\Trun BasedCombat Game\obj\Debug\net8.0\Trun BasedCombat Game.AssemblyInfoInputs.cache
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\Trun BasedCombat Game\obj\Debug\net8.0\Trun BasedCombat Game.AssemblyInfo.cs
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\Trun BasedCombat Game\obj\Debug\net8.0\Trun BasedCombat Game.csproj.CoreCompileInputs.cache
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\Trun BasedCombat Game\obj\Debug\net8.0\Trun BasedCombat Game.sourcelink.json
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\Trun BasedCombat Game\obj\Debug\net8.0\Trun BasedCombat Game.dll
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\Trun BasedCombat Game\obj\Debug\net8.0\refint\Trun BasedCombat Game.dll
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\Trun BasedCombat Game\obj\Debug\net8.0\Trun BasedCombat Game.pdb
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\Trun BasedCombat Game\obj\Debug\net8.0\Trun BasedCombat Game.genruntimeconfig.cache
+C:\Users\shams\OneDrive\سطح المكتب\C# Mini Projects\Trun BasedCombat Game\obj\Debug\net8.0\ref\Trun BasedCombat Game.dll
